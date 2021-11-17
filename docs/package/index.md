@@ -27,15 +27,15 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 ## Power Adapter
 
-<img src="assets/adapter12v.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="package/assets/adapter12v.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 ## Dummy RS232/UART/RS485 device
 
-![Alt text](./assets/ont.png?raw=true "Power Adapter")
+![Alt text](package/assets/ont.png?raw=true "Power Adapter")
 
 ## Type C Power cable
 
-![Alt text](./assets/typec.png?raw=true "Power Adapter")
+![Alt text](package/assets/typec.png?raw=true "Power Adapter")
 
 ## Module I
 
