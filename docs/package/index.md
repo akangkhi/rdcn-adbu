@@ -10,7 +10,7 @@ permalink: /package
 {: .no_toc }
 
 
-Two item, that will be required to test module-B is sent along with the parcel, but in a different box labelled "Netgear".
+Two item, that will be required to test module-II is sent along with the parcel, but in a different box labelled "Netgear".
 
 Their usage/purpose is mentioned in the documentaion. Please use the search option.
 
@@ -26,6 +26,9 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 ---
 
 ## Type C Power cable
+
+
+Both Module-I and Module-II are powered via USB Type-C. USB Type-C requires certain conditions to be followed by the power cable as well as the downstream devices to negotiate the voltage/current/power. Both Module-I and II are tested with this USB Type-C cable.
 
 ![Alt text](package/assets/typec.png?raw=true "Power Adapter")
 
