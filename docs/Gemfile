@@ -1,0 +1,2 @@
+gem "github-pages", "~> 219", group: :jekyll_plugins
+gem "just-the-docs"
