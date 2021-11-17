@@ -25,6 +25,12 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 ---
 
+## Type C Power cable
+
+![Alt text](package/assets/typec.png?raw=true "Power Adapter")
+
+***
+
 ## Power Adapter
 
 ![Alt text](package/assets/adapter12v.png?raw=true "Power Adapter")
@@ -37,12 +43,13 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 ***
 
-## Type C Power cable
-
-![Alt text](package/assets/typec.png?raw=true "Power Adapter")
-
 ## Module I
+![Alt text](package/assets/moda.png?raw=true "Power Adapter")
+***
 
 ## Module II
-
+![Alt text](package/assets/modb.png?raw=true "Power Adapter")
+***
 ## Programmer
+![Alt text](package/assets/prog.png?raw=true "Power Adapter")
+***
