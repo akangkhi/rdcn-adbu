@@ -27,8 +27,10 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 ## Type C Power cable
 
+<br>
 
-Both Module-I and Module-II are powered via USB Type-C. USB Type-C requires certain conditions to be followed by the power cable as well as the downstream devices to negotiate the voltage/current/power. Both Module-I and II are tested with this USB Type-C cable.
+Both Module-I and Module-II are powered via USB Type-C. <br>
+USB Type-C requires certain conditions to be followed by the power cable as well as the downstream devices to negotiate the voltage/current/power. Both Module-I and II are tested with this USB Type-C cable.
 
 ![Alt text](package/assets/typec.png?raw=true "Power Adapter")
 
