@@ -2,11 +2,43 @@
 layout: default
 title: Parcel
 nav_order: 99
-has_children: true
+has_children: false
 permalink: /Parcel
 ---
 
-# Module B Documentation
+# Parcel Package Contents
+{: .no_toc }
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+
+Two item, that will be required to test module-B is sent along with the parcel, but in a different box labelled "Netgear".
+
+Their usage/purpose is mentioned below:
+
 {: .fs-6 .fw-300 }
+
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Power Adapter
+
+![Alt text](assets/adapter12v.png?raw=true "Power Adapter")
+
+## Dummy RS232/UART/RS485 device
+
+![Alt text](assets/ont.png?raw=true "Power Adapter")
+
+## Type C Power cable
+
+![Alt text](assets/typec.png?raw=true "Power Adapter")
+
+## Module I
+
+## Module II
+
+## Programmer
