@@ -27,7 +27,7 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 ## Power Adapter
 
-![Alt text](./assets/adapter12v.png?raw=true "Power Adapter")
+<img src="./assets/adapter12v.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 ## Dummy RS232/UART/RS485 device
 
