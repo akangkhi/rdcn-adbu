@@ -45,11 +45,15 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 ## Module I
 ![Alt text](package/assets/moda.png?raw=true "Power Adapter")
+
 ***
 
 ## Module II
 ![Alt text](package/assets/modb.png?raw=true "Power Adapter")
+
 ***
+
 ## Programmer
 ![Alt text](package/assets/prog.png?raw=true "Power Adapter")
+
 ***
