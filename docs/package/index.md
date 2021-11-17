@@ -12,7 +12,7 @@ permalink: /Parcel
 
 Two item, that will be required to test module-B is sent along with the parcel, but in a different box labelled "Netgear".
 
-Their usage/purpose is mentioned below:
+Their usage/purpose is mentioned in the documentaion. Please use the search option.
 
 {: .fs-6 .fw-300 }
 
