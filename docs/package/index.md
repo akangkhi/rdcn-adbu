@@ -38,6 +38,21 @@ USB Type-C requires certain conditions to be followed by the power cable as well
 
 ## Dummy RS232/UART/RS485 device
 
+<br>
+
+Module II will require an UART device to work with. <br>
+This DBC device is an fibre ONT, mostly used in customer network premises. Unlike the enterprise grade networking devices, This device doesn't have a dedicated COM port.But it has a port reserved for such purposes. Modification is done to the board to expose the COM port. This COM port supports only UART at 115200 baud. 
+The wire color codes are as follows:
+
+
+| Sl | Color | Function |
+|--|--|--|
+| 1 | Green | TX |
+|2|Blue|RX|
+|3|Black|GND|
+|4|Red|Not Used|
+
+
 ![Alt text](package/assets/ont.png?raw=true "Power Adapter")
 
 ***
