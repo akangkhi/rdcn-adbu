@@ -5,7 +5,7 @@ parent: Module A
 nav_order: 1
 ---
 
-# Hardware
+# Module I Usage
 {: .no_toc }
 
 ## Table of contents

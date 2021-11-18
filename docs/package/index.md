@@ -55,7 +55,7 @@ The wire color codes are as follows:
 
 | Sl | Color | Function |
 |-|---|---|
-| 1 | Green | TX |
+|1|Green|TX|
 |2|Blue|RX|
 |3|Black|GND|
 |4|Red|Not Used|
@@ -78,16 +78,38 @@ Power supply to the Dummy UART device/ONT. (Refer above)
 ***
 
 ## Module I
+
+
+<br>
+This is the second revision of Module I. It comes with an 3.5in Touch display, along with a Dual Core 240Mhz ESP32 SoC. More details is mentioned in the respective documentations.
+
+A stylus is provided along with the packet as the resistive touchscreen might have inaccurate touch response.
+
+
 ![Alt text](package/assets/moda.png?raw=true "Power Adapter")
 
 ***
 
 ## Module II
+
+
+<br>
+This is the first revision of Module II. It has three parts: the primary CPU: with WiFi/BLE/Ethernet (Optional) along with the display, the co-cpu: with 4 Hardware Serial port, along with numerous Software Serial ports, and a USB Dongle Receiver. It comes with an 2.8in Touch display, along with a Dual Core 240Mhz ESP32 SoC. More details is mentioned in the respective documentations.
+
+Please use the stylus, as the small screen is uncomfortable to operate.
+
+
 ![Alt text](package/assets/modb.png?raw=true "Power Adapter")
 
 ***
 
 ## Programmer
+
+
+<br>
+While working on the Module II, some functionalities of Module I, connected to the same online server got broken, and is being fixed. If any errors were to occur during the upgrade process, this programmer can be used to recover and manually upload the firmware.
+
+
 ![Alt text](package/assets/prog.png?raw=true "Power Adapter")
 
 ***

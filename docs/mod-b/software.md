@@ -5,7 +5,7 @@ parent: Module B
 nav_order: 3
 ---
 
-# Hardware
+# Software
 {: .no_toc }
 
 ## Table of contents
