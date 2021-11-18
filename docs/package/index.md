@@ -111,5 +111,3 @@ While working on the Module II, some functionalities of Module I, connected to t
 
 
 ![Alt text](package/assets/prog.png?raw=true "Power Adapter")
-
-***
