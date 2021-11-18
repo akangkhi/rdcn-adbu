@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Updates
-parent: Module A
+parent: Module B
 nav_order: 4
 ---
 

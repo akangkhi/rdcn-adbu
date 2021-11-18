@@ -36,15 +36,15 @@ USB Type-C requires certain conditions to be followed by the power cable as well
 
 ***
 
-## Power Adapter
-
-![Alt text](package/assets/adapter12v.png?raw=true "Power Adapter")
-
-***
-
 ## Dummy RS232/UART/RS485 device
 
 ![Alt text](package/assets/ont.png?raw=true "Power Adapter")
+
+***
+
+## Power Adapter
+
+![Alt text](package/assets/adapter12v.png?raw=true "Power Adapter")
 
 ***
 

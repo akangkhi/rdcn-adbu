@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Updates
-parent: Module A
-nav_order: 4
+title: Usage
+parent: Module B
+nav_order: 1
 ---
 
-# Firmware Upgrade
+# Module II Usage
 {: .no_toc }
 
 ## Table of contents

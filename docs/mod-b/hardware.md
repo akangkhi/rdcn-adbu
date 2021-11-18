@@ -2,7 +2,7 @@
 layout: default
 title: Hardware
 parent: Module B
-nav_order: 1
+nav_order: 2
 ---
 
 # Hardware
