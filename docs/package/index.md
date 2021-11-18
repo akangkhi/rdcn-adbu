@@ -29,6 +29,7 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 
 
 
+<br>
 Both Module-I and Module-II are powered via USB Type-C.
 
 
@@ -42,6 +43,7 @@ USB Type-C requires certain conditions to be followed by the power cable as well
 
 
 
+<br>
 Module II will require an UART device to work with.
 
 
