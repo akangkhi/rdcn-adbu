@@ -16,4 +16,4 @@ nav_order: 2
 
 ---
 
-<iframe src="assets/ibom.html"></iframe>
+<iframe width=100% src="../assets/ibom.html"></iframe>
