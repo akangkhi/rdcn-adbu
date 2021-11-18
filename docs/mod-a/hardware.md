@@ -16,4 +16,12 @@ nav_order: 2
 
 ---
 
-<iframe width="100%" src="../assets/ibom.html"></iframe>
+# Design Files
+
+## Schematic Files
+
+## Interactive BOM
+
+<a href="../assets/ibom.html" target="_blank">Open in New Tab</a>
+
+## PCB render images
