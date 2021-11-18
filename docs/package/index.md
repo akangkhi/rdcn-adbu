@@ -28,7 +28,10 @@ Their usage/purpose is mentioned in the documentaion. Please use the search opti
 ## Type C Power cable
 
 
-Both Module-I and Module-II are powered via USB Type-C. <br>
+
+Both Module-I and Module-II are powered via USB Type-C.
+
+
 USB Type-C requires certain conditions to be followed by the power cable as well as the downstream devices to negotiate the voltage/current/power. Both Module-I and II are tested with this USB Type-C cable.
 
 ![Alt text](package/assets/typec.png?raw=true "Power Adapter")
@@ -38,14 +41,18 @@ USB Type-C requires certain conditions to be followed by the power cable as well
 ## Dummy RS232/UART/RS485 device
 
 
-Module II will require an UART device to work with. <br>
+
+Module II will require an UART device to work with.
+
+
 This DBC device is an fibre ONT, mostly used in customer network premises. Unlike the enterprise grade networking devices, This device doesn't have a dedicated COM port.But it has a port reserved for such purposes. Modification is done to the board to expose the COM port. This COM port supports only UART at 115200 baud.
-<br>
+
+
 The wire color codes are as follows:
 
 
 | Sl | Color | Function |
-|--|--|--|
+|-|---|---|
 | 1 | Green | TX |
 |2|Blue|RX|
 |3|Black|GND|
