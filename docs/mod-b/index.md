@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Module B
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /mod-b
 ---
