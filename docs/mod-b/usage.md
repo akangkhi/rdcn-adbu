@@ -8,5 +8,20 @@ nav_order: 1
 # Module II Usage
 {: .no_toc }
 
-- Module II is made to support Li-Po batteries.
-- Plug in the USB Type-C cable
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+### Powering Up
+
+### Verifying co-CPU
+
+### Understanding the options
+
+### Connecting USB Dongle
+
+### Using Telnet
