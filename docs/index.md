@@ -12,16 +12,12 @@ permalink: /
 [WIP]
 
 RDCN (IoT), short for "Remote diagnostics of campus network" is a project funded by ASTEC in 2020.
-This project focuses on bringing out the network issues faced by campus infrastructures and the hassle it is to have it fixed in the specific amount of limited time. 
+This project focuses on bringing out the network issues faced by campus infrastructures and a solution to the hassle it is to have it fixed in the specific amount of limited time, without interrupting internet access to hundreds of users. 
 
-In addition to campus infrastructure network, during the course of the project, it was studied that this project could be related to industry infrastructure network. Industrial IoT is a primary aspect of 4th Industrial Revolution. 
-Industry 4.0 is the current trend of automation and data exchange in manufacturing technologies. It includes 
-cyber-physical systems, the Internet of things (IoT) and cloud computing. Industry 4.0 creates what has been 
-called a “smart factory”. 
 
 Please navigate through the Menu Bar, or use the search within the menu bar.
 
-![Alt text](assets/features.png?raw=true "Power Adapter")
+![Alt text](assets/features-round.png?raw=true "Power Adapter")
 
 {: .fs-6 .fw-300 }
 
