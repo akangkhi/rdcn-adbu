@@ -9,7 +9,7 @@ permalink: /
 # Remote Diagnostics of Campus Network
 {: .no_toc }
 
-[WIP]
+[Work In Progress]
 
 RDCN (IoT), short for "Remote diagnostics of campus network" is a project funded by ASTEC in 2020.
 This project focuses on bringing out the network issues faced by campus infrastructures and a solution to the hassle it is to have it fixed in the specific amount of limited time, without interrupting internet access to hundreds of users. 
