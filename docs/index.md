@@ -6,7 +6,7 @@ description: "Documentation of 'Remote Diagnostics of Computer Network' - ASTEC 
 permalink: /
 ---
 
-# RDCN Documentation
+# Remote Diagnostics of Computer Network
 {: .no_toc }
 
 [WIP]
@@ -24,7 +24,6 @@ Please navigate through the Menu Bar, or use the search from within the menu bar
 1. TOC
 {:toc}
 
----
 
 ### Abstract
 
