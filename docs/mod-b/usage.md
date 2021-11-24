@@ -8,10 +8,5 @@ nav_order: 1
 # Module II Usage
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
+- Module II is made to support Li-Po batteries.
+- Plug in the USB Type-C cable

@@ -17,6 +17,8 @@ This project focuses on bringing out the network issues faced by campus infrastr
 
 Please navigate through the Menu Bar, or use the search within the menu bar.
 
+
+
 ![Alt text](assets/features-round.png?raw=true "Power Adapter")
 
 {: .fs-6 .fw-300 }
@@ -30,6 +32,8 @@ Please navigate through the Menu Bar, or use the search within the menu bar.
 
 
 ### Abstract
+
+Abstract here, update here
 
 ### ESP32 Microcontroller
 
