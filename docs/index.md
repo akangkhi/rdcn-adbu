@@ -2,16 +2,24 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Documentation of 'Remote Diagnostics of Computer Network' - ASTEC funded project 2020."
+description: "Documentation of 'Remote Diagnostics of Campus Network' - ASTEC funded project 2020."
 permalink: /
 ---
 
-# Remote Diagnostics of Computer Network
+# Remote Diagnostics of Campus Network
 {: .no_toc }
 
 [WIP]
 
-RDCN short for Remote diagnostics of computer network is a project funded by ASTEC in 2020. It is an IoT project...
+RDCN (IoT), short for "Remote diagnostics of campus network" is a project funded by ASTEC in 2020.
+This project focuses on bringing out the network issues faced by campus infrastructures and the hassle it is to have it fixed in the specific amount of limited time. 
+
+In addition to campus infrastructure network, during the course of the project, it was studied that this could 
+also be used in industry infrastructure network. Industrial IoT is a primary aspect of 4th Industrial Revolution. 
+
+Industry 4.0 is the current trend of automation and data exchange in manufacturing technologies. It includes 
+cyber-physical systems, the Internet of things (IoT) and cloud computing. Industry 4.0 creates what has been 
+called a “smart factory”. 
 
 Please navigate through the Menu Bar, or use the search from within the menu bar.
 
