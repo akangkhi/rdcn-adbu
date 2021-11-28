@@ -29,7 +29,7 @@ The operating voltage is 5V and it auto negotiates the voltage and the current t
 
 - After pluggin in the Type-C Cable, the leds on the secondary board must also light up. If it doesn't the wires connecting both the boards might have come loose.
 
-- The detail description of each wire is given in the Hardware section.
+- The detail description of each wire is given in the [Hardware]({{ site.baseurl }}{% link mod-b/hardware.md %}) section.
 
 ### Understanding the options
 
