@@ -26,7 +26,11 @@ Module II Usage Manual
 
 ### Powering Up
 
-- Plug in the Type-C cable to the primary board, which houses the Display. Plugging it in the secondary board won't power the main board. It is purposedly designed as such.
+- Plug in the Type-C cable to the primary board, which houses the Display. 
+
+![Alt text](../assets/powerup.png?raw=true "Power Adapter")
+
+- Plugging it in the secondary board won't power the main board. It is purposedly designed as such.
 - The Type-C Cable can be plugged in a Laptop USB port, or a phone charger, or a power bank.
 The operating voltage is 5V and it auto negotiates the voltage and the current to 3A.
 
