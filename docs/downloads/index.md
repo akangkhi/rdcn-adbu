@@ -28,9 +28,10 @@ The Software associated with RDCN project is documented below.
 
 PuTTY is an SSH and telnet client, for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.
 
-[Link button](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html){: .btn }
+[More about Putty]](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html){: .btn .mr-4}
+[Just Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi){: .btn .btn-green }
 
-![Alt text](assets/putty.png?raw=true "Power Adapter")
+![Alt text](downloads/assets/putty.png?raw=true "Power Adapter")
 
 ***
 
