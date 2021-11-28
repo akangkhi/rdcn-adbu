@@ -11,10 +11,10 @@ nav_order: 1
 Module II Usage Manual
 
 ## Prerequisites
-{: .no_toc .text-delta }
+{: .no_toc }
 
-1. [Putty]({{ site.baseurl }}{% link downloads/index.md %})
-2. [Drivers]({{ site.baseurl }}{% link downloads/index.md %})
+- [Putty]({{ site.baseurl }}{% link downloads/index.md %})
+- [Drivers]({{ site.baseurl }}{% link downloads/index.md %})
 
 ## Table of contents
 {: .no_toc .text-delta }
