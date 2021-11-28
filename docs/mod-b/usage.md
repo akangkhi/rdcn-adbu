@@ -35,7 +35,9 @@ The operating voltage is 5V and it auto negotiates the voltage and the current t
 - On the last welcome page, it will present an option if the welcome screen should be displayed everytime the board is powered on. Check the option if its not required to view the page again.
 - At the primary screen, the options for starting the system is shown, to get started, we need to know the baud of the COM port of the networking device/system we are connecting to, for wireless debugging. 
 - The provided dummy device has the baud at 115200. We select the correct baud, we further select the Input, which is UART1, or UART0 as per the connections made (please refer to the image below).
-![Alt text](assets/ports.png?raw=true "Power Adapter")
+  
+![Alt text](../assets/ports.png?raw=true "Power Adapter")
+
 - And finally we select the output, which we will first try with the USB Dongle, hence select the Wireless Option. Once all the option are provided, please proceed with the connections.
 
 ### Connecting USB Dongle
