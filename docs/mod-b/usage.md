@@ -20,19 +20,16 @@ With Module II,
 
 ### Powering Up
 
-<br>
 - Plug in the Type-C cable to the primary board, which houses the Display. Plugging it in the secondary board won't power the main board. It is purposedly designed as such.
 - The Type-C Cable can be plugged in a Laptop USB port, or a phone charger, or a power bank.
 The operating voltage is 5V and it auto negotiates the voltage and the current to 3A.
 
 ### Verifying co-CPU
 
-<br>
 - After pluggin in the Type-C Cable, the leds on the secondary board must also light up. If it doesn't the wires connecting both the boards might have come loose.
 - The detail description of each wire is given in the [Hardware]({{ site.baseurl }}{% link mod-b/hardware.md %}) section.
 
 ### Understanding the options
-
 
 - On powering on, the display will greet with an Welcome Page, Please navigate through the Welcome page.
 - On the last welcome page, it will present an option if the welcome screen should be displayed everytime the board is powered on. Check the option if its not required to view the page again.
@@ -41,10 +38,13 @@ The operating voltage is 5V and it auto negotiates the voltage and the current t
 
 ### Connecting USB Dongle
 
-
 - When selecting the Wireless Option, the Serial output will be sent wirelessly through the 433MHz band to the USB Dongle.
 - Plug in the USB Dongle in the system (might require drivers to be installed)
 - After the Drivers are install, it will create a Virtual COM port on the PC.
 - The COM port then can be opened with any application that supports it, and the application will recognize it as if the device is connected locally. [Putty]({{ site.baseurl }}{% link downloads/index.md %}) can be used to view/send data from/to the COM port. 
 
 ### Using Telnet
+
+- bkj
+- jklbkj
+
