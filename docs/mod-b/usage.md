@@ -20,14 +20,14 @@ With Module II,
 
 ### Powering Up
 
-
+<br>
 - Plug in the Type-C cable to the primary board, which houses the Display. Plugging it in the secondary board won't power the main board. It is purposedly designed as such.
 - The Type-C Cable can be plugged in a Laptop USB port, or a phone charger, or a power bank.
 The operating voltage is 5V and it auto negotiates the voltage and the current to 3A.
 
 ### Verifying co-CPU
 
-
+<br>
 - After pluggin in the Type-C Cable, the leds on the secondary board must also light up. If it doesn't the wires connecting both the boards might have come loose.
 - The detail description of each wire is given in the [Hardware]({{ site.baseurl }}{% link mod-b/hardware.md %}) section.
 
