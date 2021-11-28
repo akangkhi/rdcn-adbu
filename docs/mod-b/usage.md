@@ -59,6 +59,7 @@ The operating voltage is 5V and it auto negotiates the voltage and the current t
 
 ### Using Telnet
 
-- bkj
-- jklbkj
+- When selecting the Telnet Option, the Serial output will be redirected through telnet.
+- Scan for WiFi network and connect to the network with the password '12345678'.
+- Use any telnet client and connect to 192.168.4.1 at port 23.
 
