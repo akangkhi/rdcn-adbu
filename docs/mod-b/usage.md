@@ -8,7 +8,14 @@ nav_order: 1
 # Module II Usage
 {: .no_toc }
 
-With Module II, 
+Module II Usage Manual
+
+## Prerequisites
+{: .no_toc .text-delta }
+
+1. [Putty]({{ site.baseurl }}{% link downloads/index.md %})
+2. [Drivers]({{ site.baseurl }}{% link downloads/index.md %})
+{:toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
