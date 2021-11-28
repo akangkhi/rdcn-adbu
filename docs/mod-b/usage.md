@@ -15,7 +15,6 @@ Module II Usage Manual
 
 1. [Putty]({{ site.baseurl }}{% link downloads/index.md %})
 2. [Drivers]({{ site.baseurl }}{% link downloads/index.md %})
-{:toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
