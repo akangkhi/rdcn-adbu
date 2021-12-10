@@ -39,12 +39,24 @@ The Software associated with RDCN project is documented below.
 ## VSCode
 
 
-![Alt text](package/assets/prog.png?raw=true "Power Adapter")
+- VSCode is used as an IDE for programming the ESP32 microcontrollers.
+- The extension PlatformIO needs to be installed to have the above functionality.
+
+[More about VSCode](https://code.visualstudio.com/){: .btn .mr-4}
+[Just Download](https://az764295.vo.msecnd.net/stable/7db1a2b88f7557e0a43fec75b6ba7e50b3e9f77e/VSCodeUserSetup-x64-1.63.0.exe){: .btn .btn-green }
+
+![Alt text](downloads/assets/vscode.jpg?raw=true "Power Adapter")
 
 ***
 
 ## ArduinoIDE
 
+
+- ArduinoIDE is the IDE originally developed for Arduino Boards.
+- The Co-CPU in the Module II will be programmed by ArduinoIDE.
+
+[More about ArduinoIDE](https://www.chiark.greenend.org.uk/~sgtatham/putty/){: .btn .mr-4}
+[Just Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi){: .btn .btn-green }
 
 ![Alt text](package/assets/prog.png?raw=true "Power Adapter")
 
