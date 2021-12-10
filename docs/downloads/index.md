@@ -55,10 +55,10 @@ The Software associated with RDCN project is documented below.
 - ArduinoIDE is the IDE originally developed for Arduino Boards.
 - The Co-CPU in the Module II will be programmed by ArduinoIDE.
 
-[More about ArduinoIDE](https://www.chiark.greenend.org.uk/~sgtatham/putty/){: .btn .mr-4}
-[Just Download](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi){: .btn .btn-green }
+[More about ArduinoIDE](https://www.arduino.cc/en/software){: .btn .mr-4}
+[Just Download](https://downloads.arduino.cc/arduino-1.8.16-windows.exe){: .btn .btn-green }
 
-![Alt text](package/assets/prog.png?raw=true "Power Adapter")
+![Alt text](downloads/assets/arduino.png.png?raw=true "Power Adapter")
 
 ***
 
