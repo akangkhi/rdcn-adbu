@@ -58,7 +58,7 @@ The Software associated with RDCN project is documented below.
 [More about ArduinoIDE](https://www.arduino.cc/en/software){: .btn .mr-4}
 [Just Download](https://downloads.arduino.cc/arduino-1.8.16-windows.exe){: .btn .btn-green }
 
-![Alt text](downloads/assets/arduino.png.png?raw=true "Power Adapter")
+![Alt text](downloads/assets/arduino.png?raw=true "Power Adapter")
 
 ***
 
