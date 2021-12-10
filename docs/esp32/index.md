@@ -12,7 +12,7 @@ permalink: /esp32
 
 
 ESP32 is an Dual Core Microprocessor used in both Module I and Module II. A few basics of why this particular microcontroller is choosen is explained below.
-
+[Wikipedia](https://en.wikipedia.org/wiki/ESP32)
 
 
 ## Table of contents
@@ -27,3 +27,7 @@ ESP32 is an Dual Core Microprocessor used in both Module I and Module II. A few 
 
 - ESP32 from Espressif Systems is the . It is built with WiFi and Bluetooth, and handles the TCP/IP Stack without any extra hardware requirements.
 - It is the fastest microcontroller with its 2 of 
+
+
+### ESP32 Applications
+
