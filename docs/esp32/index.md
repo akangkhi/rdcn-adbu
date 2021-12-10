@@ -7,10 +7,13 @@ description: "Introduction to ESP32 microcontroller based on Xtensa LX6 micropro
 permalink: /esp32
 ---
 
-# Introduction to ESP32 Microcontroller/Microprocessor
+# Introduction to ESP32 Microcontroller
 {: .no_toc }
 
+
 ESP32 is an Dual Core Microprocessor used in both Module I and Module II. A few basics of why this particular microcontroller is choosen is explained below.
+
+
 
 ## Table of contents
 {: .no_toc .text-delta }
