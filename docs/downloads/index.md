@@ -65,7 +65,13 @@ The Software associated with RDCN project is documented below.
 ## CodeBlocks
 
 
-![Alt text](package/assets/prog.png?raw=true "Power Adapter")
+- CodeBlocks is used as an GUI simulator.
+- GUI code is first tested and later copied to the IDE for uploading.
+
+[More about CodeBlocks](https://www.codeblocks.org/){: .btn .mr-4}
+[Just Download](https://download.fosshub.com/Protected/expiretime=1639210425;badurl=aHR0cHM6Ly93d3cuZm9zc2h1Yi5jb20vQ29kZS1CbG9ja3MuaHRtbA==/3a1a6b10f8964790f3cf4a06258ca01c1a3b5bc68b5b584a9811b6c714012c16/5b85805cf9ee5a5c3e979f1b/5e80624f7d74bb810359a46c/codeblocks-20.03mingw-setup.exe){: .btn .btn-green }
+
+![Alt text](downloads/assets/codeblocks.png?raw=true "Power Adapter")
 
 ***
 
