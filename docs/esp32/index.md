@@ -11,8 +11,10 @@ permalink: /esp32
 {: .no_toc }
 
 <br>
-ESP32 is a dual Core microprocessor used in both Module I and Module II. A few basics of why this particular microcontroller is choosen is explained below.
+ESP32 from Espressif Systems which also makes the most popular ESP8266 used for IoT applications, is a dual core microprocessor used in both Module I and Module II. A few basics of why this particular microcontroller is choosen is explained below.
 [Wikipedia](https://en.wikipedia.org/wiki/ESP32)
+
+![Alt text](./assets/esp32.png?raw=true "Power Adapter")
 
 <br>
 ## Table of contents
@@ -25,7 +27,6 @@ ESP32 is a dual Core microprocessor used in both Module I and Module II. A few b
 
 ### Why ESP32?
 
-- ESP32 is from Espressif Systems which also makes the most popular ESP8266 used for IoT applications.
 - ESP32 has a faster CPU of 240MHz, and comes in a dual core configuration, thats 2 x 240MHz.
 - It has inbiult WiFi and Bluetooth, and handles the TCP/IP Stack without any extra hardware configurations.
 - It is the only microcontroller thats cheap, fast and has a lot of connectivity options.
