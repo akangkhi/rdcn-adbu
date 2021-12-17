@@ -37,7 +37,7 @@ ESP32 from Espressif Systems which also makes the most popular ESP8266 used for 
 ### ESP32 Applications
 
 - ESP32 is used in most IoT applications that required both WiFi and BLuetooth functionalities.
-- The last two years has see a surge in ESP32 in applications covering many domains.
+- The last two years has see a surge of ESP32 in applications covering many domains.
 - The faster processor enables to drive a high resolution colour display, and the huge IO makes it possible to connect a lot of peripheral.
 - The Dual core benefits in creating multithreaded applications that runs at the same time, and delivers twice the output.
   

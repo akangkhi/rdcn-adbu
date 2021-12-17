@@ -15,3 +15,9 @@ nav_order: 3
 {:toc}
 
 ---
+
+### Commits tracking
+
+[Github Link: https://github.com/akangkhi/rdcn-module-b](https://github.com/akangkhi/rdcn-module-b)
+<br><br>
+![Alt text](../assets/commits.png?raw=true "Power Adapter")
