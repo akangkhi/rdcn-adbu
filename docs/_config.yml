@@ -61,3 +61,8 @@ compress_html:
   # ignore:
   #   envs: all
   
+  
+  # Google Analytics Tracking (optional)
+# e.g, G-9EKTLZJFZS
+ga_tracking: G-9EKTLZJFZS
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
